@@ -1,2 +1,2 @@
 # FAST-Showcase
-Repositorio de demonstração da FAST
+Este repositório apresenta o projeto desenvolvido pelos alunos do 7º período de Engenharia de Software em parceria com a empresa Fast, com o objetivo de entregar um software personalizado para suas operações. A turma foi dividida em três equipes: CPR (Chamado de Peças de Reposição), ERP (Gestão de Ordens de Serviço) e ADOS (Análise de Dados de Ordens de Serviço), cada uma responsável por módulos distintos do sistema. O desenvolvimento seguiu metodologias ágeis, com sprints planejadas e validadas pela equipe de Quality Assurance, garantindo entregas contínuas, funcionais e alinhadas às necessidades do cliente.
